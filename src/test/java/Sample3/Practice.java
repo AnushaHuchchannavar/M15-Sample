@@ -4,6 +4,7 @@ public class Practice {
 	public static void main(String[] args) {
 		System.out.print("first Sample");
 		System.out.println("Practing Git Branch");
+		System.out.println("ATE reviwieng");
 	}
 
 }
