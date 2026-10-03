@@ -1,10 +1,9 @@
 package Sample3;
 
-public class Practice {
+public class Practice3 {
 	public static void main(String[] args) {
-		System.out.print("first Sample");
 		System.out.println("Practing Git Branch");
-		System.out.println("ATE reviwieng");
+		System.out.println("Practice ");
 	}
 
 }
